@@ -34,6 +34,6 @@ Expect misunderstandings to happen, and be prepared to help de-escalate conflict
 There are times when bans may be required. These are examples of some of the situations that may warrant a ban:
 
 - Immediate bans include: a user posting a "free coins/money" referral link, phishing attack, pump & dump group, or impersonating an admin or team member.
-- Warn a user for crude comments/messages and delete the message. If they continue to cause problems, post personal attacks, or blatant discrimination, ban the user
+- Warn a user for crude comments/messages and delete the message. If someone posts personal attacks, blatant discrimination, or continues to cause problems after being warned, ban the user
 - In general, use your best judgement. Some actions should only require a warning, and some obviously deserve a ban.
 - If you are unsure if someone’s actions should warrant a ban, temporarily ban or mute the user, let them know why, and contact a team member. 
